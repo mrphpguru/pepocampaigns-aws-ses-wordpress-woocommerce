@@ -2,9 +2,9 @@
 /*
 Plugin Name: Pepo Campaigns wordpress woocommerce subscription
 Description: Plugin for Acount Registration using Pepocampaigns API
-Plugin URI: http://thecodesworld.com/
-Author URI: http://thecodesworld.com/
-Author: Rajesh Kumar
+Plugin URI: http://mrphpguru.com/
+Author URI: http://mrphpguru.com/
+Author: MrPhpGuru, Ranjeet Singh, Rajesh Kumar
 License: Public Domaia
 Version: 100.1
 */
